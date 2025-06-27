@@ -35,6 +35,7 @@ If you are a **GPS hardware manufacturer, an industry solution provider, a large
 *   **Full-Terminal Coverage:** We provide a **Web-based admin panel, Mini-Program, and a Flutter App (iOS & Android)** to meet the needs of various roles, including managers and drivers.
 *   **Open & Integrated:** A standard **GPS Data API** is available to seamlessly integrate with your existing ERP, TMS, OA, or other systems, breaking down information silos.
 *   **Flexible Deployment:** We support both **SaaS subscriptions** and **private deployments** to accommodate businesses of different scales and security requirements.
+*   **Internationalization support: ** Simultaneous support for many languages ​​such as **Chinese**, **English**, **Filipino**, **Thai**, **Malay**, **Hindi** and other countries.
 
 ---
 
